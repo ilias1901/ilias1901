@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ilias1901
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me:  https://t.me/il1a3
+- **My name is Zakirov Ilias.**
+I’m interested in Machine learning and Data analysis. 
+I've started my way in the Data Science field in Dec 2021, have finished Yandex.Praktikum Data Science courses in August 2022. 
+You can check my repositories that I've found to be interested and  representative.
 
-<!---
-ilias1901/ilias1901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me via Telegram:  https://t.me/il_zak
